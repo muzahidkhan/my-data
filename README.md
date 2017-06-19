@@ -1,2 +1,3 @@
-# my-data
-this my personal info keeper
+Apps for Ubuntu Must have
+https://www.fossmint.com/best-ubuntu-apps/
+
